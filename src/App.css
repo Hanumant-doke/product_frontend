@@ -1,0 +1,5 @@
+.menu-link {
+    text-decoration: none !important;
+    color: inherit;
+    /* Optional: Inherit the color from the parent */
+  }
